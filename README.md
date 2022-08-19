@@ -1,5 +1,18 @@
 # xash3d-old
-# Building
+[Building in 2017](#Building2017)
+
+
+
+
+
+
+
+
+
+
+
+
+# Building2017
 # CMake (recommended)
 
 If you want to enable VGUI support, you need part of Half-Life 1 SDK to build vgui_support library.
