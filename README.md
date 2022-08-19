@@ -1,14 +1,14 @@
 # xash3d-old
-Building
-CMake (recommended)
+# Building
+# CMake (recommended)
 
 If you want to enable VGUI support, you need part of Half-Life 1 SDK to build vgui_support library.
 
-NOTE: VGUI is exists only for Linux/MacOSX/Windows and only for x86. Disable it by -DXASH_VGUI=no if you are targetting non-supported architecture.
+**NOTE**: VGUI is exists only for Linux/MacOSX/Windows and only for x86. Disable it by -DXASH_VGUI=no if you are targetting non-supported architecture.
 
 Clone Xash3D repository using git:
 
-git clone --recursive https://github.com/FWGS/xash3d
+```git clone --recursive https://github.com/FWGS/xash3d```
 
 Move to the Xash3D folder:
 
@@ -18,7 +18,7 @@ Clone Half Life 1 SDK with git:
 
 git clone https://github.com/ValveSoftware/halflife hlsdk/
 
-OR you can use vgui-dev repository with just ripped off VGUI headers and library. Clone it using git:
+**OR** you can use vgui-dev repository with just ripped off VGUI headers and library. Clone it using git:
 
 git clone https://github.com/FWGS/vgui-dev hlsdk/
 
