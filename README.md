@@ -1,15 +1,13 @@
 ### xash3d old - all archive
-# 2017
+# 2018
 # EN:
-[Building in 2017](#Building2017)
+[Building in 2018](#Building2018)
 
-[Manual running in 2017](#Manual-running2017)
+[Manual running in 2018](#Manual-running2018)
 # RU:
-[Компилирование 2017 г.](#buildru2017)
+[Компилирование 2018 г.](#buildru2018)
 
-[Руководство и запуск 2017 г.](#руководство2017)
-
-
+[Руководство и запуск 2018 г.](#руководство2018)
 
 
 
@@ -21,7 +19,9 @@
 
 
 
-# Building2017
+
+
+# Building2018
 # CMake (recommended)
 
 If you want to enable VGUI support, you need part of Half-Life 1 SDK to build vgui_support library.
@@ -153,7 +153,7 @@ cd $HOME/Games/Xash3D
 ```
 
 
-# Manual-running2017
+# Manual-running2018
 
 **Put xash3d binaries and vgui(optionally) to you game data directory and run:**
 
@@ -258,7 +258,7 @@ run
 
 
 
-# buildru2017
+# buildru2018
 # CMake (рекомендуется)
 
 Если вы хотите включить поддержку VGUI, вам понадобится часть Half-Life 1 SDK для сборки библиотеки vgui_support.
@@ -390,7 +390,7 @@ cd $HOME/Игры/Xash3D
 ```
 
 
-# руководство2017
+# руководство2018
 
 ** Поместите двоичные файлы xash3d и vgui (необязательно) в каталог данных игры и запустите: **
 
