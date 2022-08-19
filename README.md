@@ -2,10 +2,12 @@
 # 2017
 EN:
 [Building in 2017](#Building2017)
+
 [Manual running in 2017](#Manual-running2017)
 
 RU:
 [Компилирование 2017 г.](#buildru2017)
+
 [Руководство и запуск 2017 г.](#руководство2017)
 
 
