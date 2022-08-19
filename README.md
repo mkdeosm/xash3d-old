@@ -337,9 +337,9 @@ cd (xash3d)\game_launch
 
 ```make -f /path/to/microndk/microndk.mk -j4```
 
-**Делать:**
+**make:**
 
-```сделать -f /path/to/microndk/microndk.mk -j4 чистым```
+```make -f /path/to/microndk/microndk.mk -j4 clean```
 
 каждый раз, когда вы строите клиент после сборки сервера
 Makefile.linux
@@ -372,7 +372,7 @@ Makefile.linux
 
 **После успешной сборки скопируйте следующие файлы в другой каталог, где вы хотите запустить Xash3D:**
 
-``cp engine/libxash.so game_launch/xash3d mainui/libxashmenu.so $HOME/Games/Xash3D```
+```cp engine/libxash.so game_launch/xash3d mainui/libxashmenu.so $HOME/Games/Xash3D```
 
 **Если вы собрали его с помощью XASH_VGUI, также скопируйте vgui.so:**
 
@@ -382,7 +382,7 @@ Makefile.linux
 
 ```cp ../xash3d.sh $HOME/Games/Xash3D```
 
-**Бежать:**
+**переместится:**
 
 ```
 cd $HOME/Игры/Xash3D
@@ -419,4 +419,4 @@ build/vgui_support/[Конфигурация сборки]/vgui_support.dll
 
 Использование загрузчика DLL
 
-**Поместите vgui_support.dll из сборки Windows в папку с игровыми данными и запустите
+**Поместите vgui_support.dll из сборки Windows в папку с игровыми данными и запустите**
